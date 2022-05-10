@@ -1,0 +1,44 @@
+*** Change-log - WooCommerce mobile app premium Theme ***
+
+
+2018.03.28 - version 4.0
+---------------------------------
+1) Support for woocommerce version 3.2.6, 3.3.1, 3.2.2, 3.3.3.
+3) Upload mstoreapp-mobile-app plugin files.
+3) Change in Menu
+4) Distributing ionic project files instead of src files
+5) WooCommerce api keys moved from backend setting to src/provides/config.ts file
+
+
+2017.12.15 - version 3.0
+---------------------------------
+
+1. Update to ionic 3.x
+2. Uninstall Raham-api wordpress plugin
+3. Install mstoreapp-mobile-app
+3. Supports Push Notification Plugin
+4. Added Wishlist
+5. Added Lazy Loading
+
+
+2017.05.23 - version 2.0
+---------------------------------
+
+1. Updated to ionic 3
+2. Supports for WooCommerce 3.x
+3. Multilingual i18n and ng-translate
+4. Supports RTL
+5. Multiple themes
+6. Chnage in Wordpress Plugin - Uninstall JSON-API plugin wordpress plugin and install RAHAM-API
+
+2017.02.14 - version 1.1
+---------------------------------
+
+1. Improved Design
+2. Support Variation Products
+3. Update raham.php file - Replace raham.php file in your server ~/wp-content/plugins/json-api/controllers/raham.php
+
+
+2016.12.15 - version 1.0
+---------------------------------
+	* First release!
